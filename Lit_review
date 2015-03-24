@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8"> 
+	<title> Website Coursework, 681275 </title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header>
+		<h1> Literature Review </h1>
+		<nav> 
+			<a href="Index.html" accesskey="1"> Home </a> |
+			<a href="worklog.html" accesskey="2">Worklog</a> |
+			<a href="Lit_review.html" accesskey="3">Literature Review</a> |
+			<a href="CV.html" accesskey="4">CV</a> 
+		</nav>
+	</header>
+	<article>
+		<section>
+			<h2> The Emergence of Cloud Computing </h2>
+			<p>
+			Cloud computing has quickly become one of the world's fastest growing technologies and is become a necessity for everyday life. 
+			With the use of on-demand media and file sharing, cloud computing has quickly changed businesses all over the world. 
+			Sites like Amazon and eBay have quickly expanded and improved their services through the use of cloud computing.
+			</p>
+
+			<p>
+			In this document I will explore the emergence of cloud computing along with the issues surrounding it. 
+			First, the differing definition of cloud computing will be explored. 
+			Second, we will move onto the advantages and disadvantages of cloud computing. 
+			Lastly, Security issues surrounding cloud computing will be looked at.
+			</p>
+		
+			<p>
+			Cloud computing is an ever changing field and therefore it is difficult to assign a specific definition, there are plenty of different definitions that have been put forward. 
+			One such definition states that 'the cloud is a model that enables users to access, from any computer connected to the internet (whether a desktop PC or a mobile device), a multitude of IT services rather than being limited to using locally installed software and being dependant on the storage capacity of their local network' (Cloud Computing: Moving IT out of the Office, 2012, p. 2).
+			</p>
+		
+			<p>
+			Another definition (Zissis & Lekkas, 2012, p. 584) says that 'a cloud is a model for enabling convenient, on demand network access to a shared pool of configurable computing resources. 
+			These include networks, servers, storage and applications. These resources can be rapidly provisioned and released with minimal management effort or service provider interaction.' 
+			Similarly Sultan (2010, p. 110) supports Zissis and Lekkas by saying that a cloud is a collection of distributed computers usually large data centres and server farms which provide resources on demand and services over a network which is usually the internet.
+			</p>
+		
+			<p>
+			A different definition is put through by Buyya, Yeo, Venugopal, Broberg and Brandic (2009, p. 601), it says that 'a cloud is a type of parallel and distributed system consisting of a collection of inter connected and virtualised computers 
+			that are dynamically provisioned and presented as one or more unified computing resources based on service level agreements established through negotiation between the service provider and consumers.'  
+			We see now that there is never really a universally used definition for cloud computing as there are too many developments in the field to assign a definition to. 
+			Supporting this virtualised definition, Vaquero, Rodero-Merino, Caceres and Lindner (2009, p. 51) states that the cloud is a large virtualised easily accessible resource. 
+			These resources can be reconfigured on demand to adjust to a load of varying size, this means that resources can be used to their optimum potential.
+			</p>
+		
+			<p>
+			In this section of the review we will examine the advantages and disadvantages of cloud computing. 
+			The book Cloud Computing: Moving IT out of the Office (2012, p. 8-9) suggests that there are 5 main benefits to cloud computing. 
+			These are; cost efficiency, ease of use, always up to date, scalability and mobility. Marston, Li, Bandyopadhyay, Zhang and Ghalsasi (2011, p. 178) have suggested some examples of the advantages of cloud computing. 
+			First, cloud computing significantly lowers the cost to small businesses that are trying to benefit from high powered computing resources that were before only available to large computing companies.
+			Second, cloud computing provides almost immediate access to hardware resources with little to no upfront costs for the users, this will lead to faster market distribution in many businesses.
+			Third, cloud computing makes it easier for businesses to change the size of their services depending on client demand. This is useful because the services rely increasingly on accurate and precise information.
+			</p>
+		
+			<p>
+			Lastly Marston et al. (2011, p. 178) say that 'cloud computing also makes possible new classes of applications available and delivers services that were not possible before.' 
+			Armburst, Fox, Griffith, Joseph, Katz and Konwinski (2010, p.50) put forward the fact that developers no longer require the hardware to deploy their services or the workforce to operate them as an advantage of the cloud. 
+			As well as this Armburst et al.(2010, p. 51) have said that 'the elimination of an upfront commitment by cloud users allows small companies to start small and increase hardware resources only when there is an increase in their needs.'
+			</p>
+		
+			<p>
+			Adding to this list of advantages, Ercan (2010, p. 942) believes the cloud provides instant global platforms, reduces cost and simplifies scalability. 
+			He also believes that by adopting cloud network redundancy, it will eliminate disaster recovery risks and the high cost associated with it. 
+			However Ercan (2010, p. 942) also addresses the disadvantages with cloud computing, saying that 'the majority of IT services needed by customers do not exist yet.' 
+			He also says that there are still problems with applications offering service level agreements, but the most problematic disadvantage is the security issues that evolve alongside the development of cloud computing.
+			</p>
+		
+			<p>
+			This section of the review will focus on the security issues that arise with the development of cloud computing. 
+			Security issues are always apparent in cloud computing and as cloud computing develops so do the issues in security. 
+			A paper by Popovic and Hocenski (2010, p. 345) states that with control of the cloud, physical security is lost because of sharing computing resources with other companies. 
+			There is also no control of where the resources run. Similarly there is no recorded area of where the data is stored, users have no idea if the data was transferred to another country. 
+			If that is the case then the country may have different privacy laws that place limitations on the ability of organisations to transfer some types of personal information.
+			</p>
+		
+			<p>
+			There are always security issues that arise around data transfer and data privacy, this is because there are many ways through which a hacker can easily get into the internet based network and act as a cloud server to the owner of data, this would lead to the loss of data (Sood, 2012, p. 1836). 
+			There is also the possibility of a brute force attack on networks. A brute force attack is when all possible keys and/or passwords are checked systematically until the right one is found. Sood (2012, p. 1836) puts forward that brute force attacks are mostly useless now. 
+			This is because the new models of clouds use double encryption and so normal hackers do not have enough processing power required and so it renders them ineffective. 
+			Sood (2012, p. 1836) also lists threats from cloud service providers as another security risk. 
+			This is because the data is not in control of the owner when in the cloud and the cloud service provider can turn against the owner and take any data that it wants.
+			</p>
+		
+			<p>
+			Luo, Lin, Chen, Yang and Chen add Denial of service attacks to the list of viable security issues. 
+			An attack which stops the user from accessing a system resource is called a Denial of Service Attack (DoS). 
+			It is usually an effort to prevent an internet webpage/site from functioning at full capacity, sometimes to take down the site completely. 
+			'In virtual machine architecture the guest machines and the host share the physical resources such as CPU, memory, hard disk and network resources' (2011, p. 176).
+			</p>
+		
+			<p>
+			This means it is possible for a Denial of service attack by a user to be used against other users on the same network or system. 
+			When this attack has happened it puts user's data and the data of the site in the hands of the hacker and therefore puts the data at risk of being stolen or tampered with. 
+			Supporting this, Sood (2012, p. 1836) claims that 'data is always under the threat of being tampered with by any unauthorized interceptor.' 
+			However he also goes on to say that because of the new MAC codes used with encrypted data it becomes harder for interceptors to tamper with the data. 
+			This is because the encrypted data must be authenticated when it is sent out and when it is received by users. 
+			</p>
+		
+			<p>
+			In summary cloud computing has been evolving steadily in the past years and has always become necessity and the norm in the modern world. 
+			Cloud computing has changed the business world through the use of e-commerce sites like Amazon and has changed normal business practices through the use of virtualised hardware and applications run by company's servers all around the world and used by normal employees. 
+			In this review we found that there are many different advantages and disadvantages to cloud computing and that there are varying opinions on how the cloud is defined. 
+			Finally even though the security risks are numerous, the advantages that the cloud has for their populace outweighs the risks.
+			</p>
+			<h2>
+			<a href="References.html"> Reference List </a>
+			</h2>
+		</section>
+	</article>
+	<footer>
+		<nav>
+			<a href="http://validator.w3.org/check?uri=referer" accesskey="5"> HTML Validator </a> |
+			<a href="http://jigsaw.w3.org/css-validator/check/referer/" accesskey="6"> CSS Validator </a>
+		</nav>
+	</footer>
+</body>
