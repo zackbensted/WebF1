@@ -1,0 +1,91 @@
+*{
+    font-family: calibri;
+}
+
+a{
+    text-decoration:none;
+}
+
+a:link{
+    color:royalblue;
+}
+
+a:visited{
+    color:royalblue;
+}
+
+a:active{
+    color:royalblue;
+}
+
+a:hover{
+    background: white; 
+    border:3px solid;
+    border-radius:70px;
+    border-color: navy;
+}
+
+img{
+    float: left;
+    padding:0.5em;
+    width: 10em;
+    height: 10em;
+}
+
+.design{
+    padding: 0.5em;
+    display: block;
+    margin: 0em auto;
+}
+style.italic{
+    font-style: italic
+}
+video{
+    text-align: center;
+    vertical-align: middle;
+    margin: 0px auto;
+    display: block
+}
+
+dt{
+    font-weight: bold;
+}
+
+h1{
+    color: navy;
+    font-size: 250%;
+    text-align: center;
+}
+
+h2{
+    color: royalblue;
+    text-align: center;
+}
+
+h3{
+    color: royalblue;
+    text-align: left;
+}
+
+header{
+    padding: 0.5em;
+}
+
+section{
+    background: White;
+    border-radius: 10px;
+    padding: 1em;
+    margin: 1em;
+}
+
+article{
+    margin-left: auto;
+    margin-right: auto;
+    width: 55em;
+    background: navy;
+    border-radius: 10px;
+} 
+
+nav{
+    text-align: center;
+}
