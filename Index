@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8"> 
+	<title> Website Coursework, 681275 </title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header>
+		<h1> Home </h1>
+		<nav> 
+			<a href="Index.html" accesskey="1"> Home </a> |
+			<a href="worklog.html" accesskey="2">Worklog</a> |
+			<a href="Lit_review.html" accesskey="3">Literature Review</a> |
+			<a href="CV.html" accesskey="4">CV</a> 
+		</nav>
+	</header>
+		
+	<article>
+		<section>
+			<h3> About me/Overview </h3>
+				<img src="photo.jpg" alt="A picture of me sat on a reclined deck chair">
+				<p> Hello, I'm a student studying at the University of Portsmouth and this is my electronic portfolio.</p>
+				<p> This website is a coursework task for the Web Foundations 1 part of my Computing course. </p> 
+				<p> This website contains my Curriculum Vitae(CV), a literature review as proof of my work, my worklog for the unit thus far
+				and examples of the use of images and video rendering.</p>	
+				<p> I live in the south of Portsmouth in a place called Southsea, below is a video of the road on which I live: </p>
+				<video controls width= "400">
+					<source	src="My_Movie.mp4">
+					<source src="My_Movie2.ogv">
+					Sorry your browser does not support this.
+				</video>		
+			<h3> Accessibility Functions</h3>
+				<p> Here is a list of all the accesibility functions that this site provides: </p>
+				<dl>
+					<dt> [ALT] + 1 </dt>
+						<dd>- This will take you to the Home page. </dd>
+					<dt> [ALT] + 2 </dt>
+						<dd>- This will take you to the Worklog page. </dd>
+					<dt> [ALT] + 3 </dt>
+						<dd>- This will take you to the Literature Review page. </dd>
+					<dt> [ALT] + 4 </dt>
+						<dd>- This will take you to the CV page. </dd>
+					<dt> [ALT] + 5 </dt>
+						<dd>- This will take you to the HTML Validator. </dd>
+					<dt> [ALT] + 6 </dt>
+						<dd>- This will take you to the CSS Validator. </dd>
+				</dl>
+		</section>
+	</article>
+	
+	<footer>
+		<nav>
+			<a href="http://validator.w3.org/check?uri=referer" accesskey="5"> HTML Validator </a> |
+			<a href="http://jigsaw.w3.org/css-validator/check/referer/" accesskey="6"> CSS Validator </a>
+		</nav>
+	</footer>
+</body>
