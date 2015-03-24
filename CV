@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8"> 
+	<title> Website Coursework, 681275 </title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header>
+		<h1> CV </h1>
+		<nav> 
+			<a href="Index.html" accesskey="1"> Home </a> |
+			<a href="worklog.html" accesskey="2">Worklog</a> |
+			<a href="Lit_review.html" accesskey="3">Literature Review</a> |
+			<a href="CV.html" accesskey="4">CV</a>
+		</nav>
+	</header>
+
+	<article>
+		<section>
+			<h2>
+			Zack Bensted
+			</h2>
+			<h2>
+			38 Leopold Street, Southsea, Hampshire, PO4 0JZ
+			Email: zackbensted@hotmail.co.uk  Mobile: 07925 704902
+			</h2>
+			<h3>Skills Summary:</h3>
+			
+				<ul>
+					<li>Easily approachable and friendly personality</li>
+					<li>Quick Learner</li>
+					<li>Team Player</li>
+					<li>Problem Solver</li>
+					<li>Efficient</li>
+					<li>Keeps to schedules</li>
+					<li>Enthusiastic</li>
+					<li>Excellent time keeper</li>
+				</ul>
+			<h3>Personal Profile:</h3>
+			<p>	
+				I am a student currently studying Computing at the University of Portsmouth. I enjoy working and interacting with other people and being part of a team. 
+			</p>
+			<h3>Education:</h3>
+			<p>
+				
+				2013-2017 BSc (Hons) Computing, University of Portsmouth
+				In the first year I will obtain the central skills and knowledge that I will need as a computing professional. The areas covered will include software engineering, systems analysis and design.
+			</p>
+			
+				Core units I will study in this year include:
+				<ul>
+					<li>Comp Tutorial Level 4</li>
+					<li>Computer Architecture with Maths</li>
+					<li>Introduction to Database Design and Development</li>
+					<li>Introduction to Programming</li>
+					<li>Network Fundamentals</li>
+					<li>Web Foundations 1</li>
+				</ul>
+			
+			<p>
+			2011-2013 Computing and IT BTEC Diploma, Canterbury College
+			Completed at overall Distinction Distinction Star with an award for best Academic Performance:
+			</p>
+			
+			2005-2010 GCSEs, Barton Court Grammar School 
+				<ul>
+					<li>Information and Communication Technology: Grade A</li>
+					<li>Biology: Grade B</li>
+					<li>Design & Technology, Food Technology: Grade B</li>
+					<li>English: Grade B</li>
+					<li>History: Grade B</li>
+					<li>Spanish: Grade B</li>
+					<li>Chemistry: Grade C</li>
+					<li>Mathematics: Grade C</li>
+					<li>Physics: Grade C</li>
+					<li>English Literature: Grade C</li>
+					<li>Religious Studies: Grade C</li>
+				</ul>
+			
+			<h3>Previous Employment/experience:</h3>
+			<p>
+			The Dinghy Store, The Sea Wall, Whitstable
+			Summer 2013.
+			Manager: Jeremy Fry
+			</p>
+			<p>
+			This role required me to help run a store with one co-worker. This advanced my interpersonal skills significantly and helped me work as part of a team. Organisational skills were required to send and receive ordered products. 
+			</p>
+			<p>
+			Gamestation, Canterbury High Street, Canterbury
+			November 11th 2011 to January 8th 2012. Part time temporary contract for Christmas.
+			Manager: Gary Jenner
+			</p>
+			<p>
+			This role was customer focussed.  Worked on the shop floor dealing with customers' needs and advising them on purchases.  Worked behind the counter on the till and handled cash and credit/debit card transactions.  This role required me to have the ability to easily talk to people and also gave me knowledge and insight on buying and selling.  
+			</p>
+			<p>
+			The Hutch, Vegetarian Restaurant, Palace Street, Canterbury
+			September 2010 to 2012.
+			Part time cleaner/waiter/kitchen porter.
+			Manager: Andy Hutchinson
+			</p>
+			<p>
+			Worked as a restaurant cleaner part time at The Hutch.  Made regular stock checks and replaced all bar stock.   This role involves working to schedules, keeping a high quality standard of work consistently and being able to work effectively in a team. During busy periods I also acted as a kitchen porter.  This experience has developed my interpersonal skills, organisational skills, time keeping and team building skills.
+			</p>
+			<h3>References:</h3>
+			<p>
+			Jeremy Fry,
+			The Dinghy Store, The Sea Wall, The Harbour, Whitstable, Kent, CT5 1BX
+			</p>
+			<p>
+			Gary Jenner,
+			Gamestation, 33 Saint George's Street, Canterbury, CT1 2LE 
+			</p>
+			<p>
+			Andy Hutchinson, 
+			The Hutch, 13 Palace Street Town Centre, Canterbury, CT1 2DZ
+			</p>
+		</section>
+	</article>
+	<footer>
+		<nav>
+			<a href="http://validator.w3.org/check?uri=referer" accesskey="5"> HTML Validator </a> |
+			<a href="http://jigsaw.w3.org/css-validator/check/referer/" accesskey="6"> CSS Validator </a>
+		</nav>
+	</footer>
+</body>
