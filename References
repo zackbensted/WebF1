@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<head>
+	<meta charset="utf-8"> 
+	<title> Website Coursework, 681275 </title>
+	<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+	<header>
+		<h1> Worklog </h1> 
+		<nav> 
+			<a href="Index.html" accesskey="1"> Home </a> |
+			<a href="worklog.html" accesskey="2">Worklog</a> |
+			<a href="Lit_review.html" accesskey="3">Literature Review</a> |
+			<a href="CV.html" accesskey="4">CV</a>
+		</nav>
+	</header>
+	
+	<article>
+		<section>
+			<h3>
+				Reference List:
+			</h3>
+
+			<p>
+			Armburst, Fox, Griffith, Joseph, Katz, Konwinski ... Zaharia, 2010. A View of Cloud Computing. Communications of the ACM, Vol.53
+			</p>
+
+			<p>
+			Buyya, Yeo, Venugopal, Broberg, Brandic, 2009. Cloud computing and emerging IT platforms, and reality for delivering computing as the 5th utility. Future Generation Computer Systems, Vol. 25
+			</p>
+
+			<p>
+			Cloud Computing: Moving IT out of the Office (2012). Swindon, GBR: British Informatics Society
+			</p>
+				
+			<p>
+			Ercan, 2010. Effective use of cloud computing in educational institutions. Procedia Social and Behavioural Sciences, Vol. 2
+			</p>
+
+			<p>
+			Luo, Lin, Chen, Yang, Chen, 2011. Virtualization security for cloud computing service
+			</p>
+
+			<p>
+			Marston, Li, Bandyopadhyay, Zhang, Ghalsasi, 2011. Cloud computing - The business perspective. <style.italic>Decision Support Systems </style.italic>, Vol.51
+			</p>
+
+			<p>
+			Popovic & Hocenski, 2010. Cloud computing security issues and challenges
+			</p>
+
+			<p>
+			Sood, 2012. A combined approach to ensure data security in cloud computing. Journal of Network and Computer Applications, Vol.35
+			</p>
+
+			<p>
+			Sultan, 2010. Cloud computing for education: A new dawn? International Journal of Information Management, Vol. 30
+			</p>
+
+			<p>
+			Vaquero, Rodero-Merino, Caceres, Lindner, 2009. A Break in the Clouds: Toward a Cloud Definition. ACM SIGCOMM Computer Communication Review, Vol. 39
+			</p>
+
+			<p>
+			Zissis & Lekkas, 2012. Addressing cloud computing security issues. Future Generation Computer Systems, Vol. 28	
+			</p>
+		</section>
+	</article>
+	<footer>
+		<nav>
+			<a href="http://validator.w3.org/check?uri=referer" accesskey="5"> HTML Validator </a> |
+			<a href="http://jigsaw.w3.org/css-validator/check/referer/" accesskey="6"> CSS Validator </a>
+		</nav>
+	</footer>
+</body>
